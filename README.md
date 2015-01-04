@@ -1,7 +1,9 @@
 Training journal
 ================
 
-This is my calisthenics journal. Here are all my movements, reps, sets and my weight. And even some notes and personal records.
+This is my calisthenics journal. Here are all my movements, reps, sets and my weight. And even some notes, personal records and injuries.
+
+I always do 10-15 minutes full joints warmup before every training, so I avoid it in my journal. Just keep it in mind. And I also do additional warmup before any inversions (like handstand pushups) to avoid blood pressure issues: pike headstands, pike pushups, wrist warmup, headstands, handstands.
 
 ## Legend
 
