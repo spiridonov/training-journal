@@ -21,3 +21,9 @@ If there are several exercies in one row that means I perform them with no rest 
 
 * Thrusters 40kg + Pullups: 5x(7+7)
 * Wide+Regular+Diamond pushups: 2x(10+10+10)
+
+For unilateral exercises (for instance, pistol squats) reps count means reps for each side (each leg in case of pistols). In my opinion presenting reps for unilateral exercises as a sum of both sides is just stupid.
+
+For exercies with dumbbells I write a weight of each dumbbell. This is an example of a 50kg dumbbell in each hand (100kg in total):
+
+* Dumbbell shrugs: 30kg 10, 42kg 12, 50kg (10, 8, 10)
