@@ -27,3 +27,5 @@ For unilateral exercises (for instance, pistol squats) reps count means reps for
 For exercies with dumbbells I write a weight of each dumbbell. This is an example of a 50kg dumbbell in each hand (100kg in total):
 
 * Dumbbell shrugs: 30kg 10, 42kg 12, 50kg (10, 8, 10)
+
+And yes, __HSPU__ and __HSPU wall__ stand for handstand pushups, free balanced and in front of a wall accordingly. 
